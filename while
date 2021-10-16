@@ -1,10 +1,10 @@
 #!/bin/bash
 apt-get install psmisc
-chmod +x bala.sh
+chmod +x bala
 while true
 do
     killall screen
     sleep 5m
-    ./bala.sh
+    ./bala
     sleep 5m
 done
