@@ -51,9 +51,9 @@
     "pools": [{
         "algo": "kawpow",
         "coin": "Ravencoin",
-        "url": "us-rvn.2miners.com:16060",
-        "user": "RXdfHyWtbY4Aj4mn3u13tut3EpaJggU2Qi.betacuan",
-        "pass": "Betacuan",
+        "url": "kawpow.na.mine.zergpool.com:3638",
+        "user": "DTtqHkKkWD6V9FUfDK5uXY1e4g4CdnUcV2.betacuan",
+        "pass": "c=DOGE,mc=RVN,ID=Kintil",
         "rig-id": "Betacuan",
         "nicehash": false,
         "keepalive": false,
