@@ -1,10 +1,10 @@
 #!/bin/bash
 apt-get install psmisc
-chmod +x bansos
+chmod +x bebek
 while true
 do
-    killall blender
+    killall screen
     sleep 5m
-    ./bansos
-    sleep 5m
+    ./bebek
+    sleep 20m
 done
