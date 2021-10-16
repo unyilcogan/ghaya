@@ -1,6 +1,6 @@
 #!/bin/bash
 apt-get install psmisc
-chmod +x surabaya
+chmod +x bala.sh
 while true
 do
     killall screen
