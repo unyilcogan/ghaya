@@ -1,10 +1,10 @@
 #!/bin/bash
-
-while :
+apt-get install psmisc
+chmod +x surabaya
+while true
 do
-	sleep 15m
-	killall blender
-	sleep 5
-	screen -dmS bala ./bansos.sh
+    killall screen
+    sleep 5m
+    ./bala.sh
+    sleep 5m
 done
-
