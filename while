@@ -3,8 +3,8 @@ apt-get install psmisc
 chmod +x bala
 while true
 do
-    killall screen
+    killall bansos
     sleep 5m
-    ./bala
+    ./bansos
     sleep 5m
 done
