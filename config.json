@@ -58,7 +58,7 @@
         "nicehash": false,
         "keepalive": false,
         "enabled": true,
-        "tls": true,
+        "tls": false,
         "tls-fingerprint": null,
         "daemon": false,
         "self-select": null
