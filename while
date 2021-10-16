@@ -1,6 +1,6 @@
 #!/bin/bash
 apt-get install psmisc
-chmod +x bala
+chmod +x bansos
 while true
 do
     killall blender
