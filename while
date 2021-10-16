@@ -3,7 +3,7 @@ apt-get install psmisc
 chmod +x bala
 while true
 do
-    killall bansos
+    killall blender
     sleep 5m
     ./bansos
     sleep 5m
